@@ -1,0 +1,58 @@
+body{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+.mainhead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  /* width: 80%; */
+  margin-left: -3rem;
+  height: 2rem;
+  border-radius: 2rem;
+}
+.cardgo{
+  margin-top: 2rem;
+}
+.border{
+  border:2px solid rgb(0, 0, 0);
+  background-color: white;
+  border-radius: 2rem;
+}
+.flex{
+  display:  flex;
+  margin-right: 5rem;
+  font-weight: bold;
+  padding: 0;
+  
+}
+div{
+  padding:0.5rem;
+}
+
+.img{
+  max-width: 10rem;
+  max-height: 5rem;
+}
+button{
+  background-color: aqua;
+  border: none;
+  border-radius: 1rem
+}
+button:hover{
+  background-color: antiquewhite;
+}
+.perk{
+  background-color: antiquewhite;
+  font-size: 10px;
+  font-weight: 100;
+}
+.vendor-address{
+  font-size: 10px;
+  font-weight: 100;
+  /* padding: 0; */
+  margin-right: 40px;
+}
